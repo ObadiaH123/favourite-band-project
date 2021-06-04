@@ -2,13 +2,15 @@ div{
 align-items: left;
 display: block;
 align-items: center;
+text-emphasis-color: rgb(0, 255, 255);
+border-radius: 5px solid;
 
 
 }
 
 h1{
 font-family: Georgia, 'Times New Roman', Times, serif;
-color: chartreuse;
+color: rgb(0, 255, 21);
 text-align: center;
 border-style: solid;
 font-weight: bolder;
@@ -37,10 +39,28 @@ text-align: center;
 div.bien { 
     align-items: left;
     text-align: left;
+    color: brown;
 
 }
 
 #one{
 text-align: left;
-
+color: cyan;
 }
+p.red{
+    text-align: left;
+}
+
+div.willis { 
+    align-items: center;
+    text-align: center;
+    color: brown;
+}
+#two{
+    text-align: left;
+    color: cyan;
+    }
+p.blue{
+        text-align: left;
+    }
+    
