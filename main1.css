@@ -44,7 +44,7 @@ text-align: center;
 } */
 
 #one{
-text-align: left;
+text-align: center;
 color: red;
 }
 p.red{
@@ -67,7 +67,7 @@ p.blue{
     }
     .bien {
         float: left;
-        width: 33.33%;
+        width: 25%;
       }
       
       /* Clear floats after the columns */
@@ -78,15 +78,15 @@ p.blue{
       }
       .willis{
         float: right;
-        width: 33.33%;
+        width: 25%;
       }
       .mogondo{
         float: right;
-        width: 33.33%;
+        width: 25%;
       }
       .bien2{
         float: left;
-        width: 33.33%;
+        width: 25%;
       }
       .image{
           align-self: center;
