@@ -12,7 +12,7 @@
 
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
-{For this, the website does not contain download button and so meanwhile the user should resort to youtube downloads. the list of favourite song by sauti sol is just but a few, and to view more of this you should go to a tab at the bottom written "view more"}
+{For this, the website does not contain download button and so meanwhile the user should resort to youtube downloads. the list of favourite song by sauti sol is just but a few, and to view more of this you should go to a tab at the bottom written "view more" taking you to sauti sol channel in youtube}
 ## Technologies Used
 {languages used is CSS and HTML}
 ## Support and contact details
