@@ -8,11 +8,11 @@
 * Enter this link https://obadiah123.github.io/favourite-band-project/
 * the page of my favourite music band will appear
 * scroll down as you read about the band members
-* 
+* on favourite songs click on the name to take you to the Youtube Videos.
 
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+{For this, the website does not contain download button and so meanwhile the user should resort to youtube downloads. the list of favourite song by sauti sol is just but a few, and to view more of this you should go to a tab at the bottom written }
 ## Technologies Used
 {languages used is CSS and HTML}
 ## Support and contact details
