@@ -6,7 +6,9 @@
 ## Setup/Installation Requirements
 * First have a device that can connect to internet
 * Enter this link https://obadiah123.github.io/favourite-band-project/
-* there you are
+* the page of my favourite music band will appear
+* scroll down as you read about the band members
+* 
 
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
