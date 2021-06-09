@@ -10,7 +10,7 @@
 * scroll down as you read about the band members
 * on favourite songs click on the name to take you to the Youtube Videos.
 
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+{This website does not have a database, and just have a domain where i have host it locally in github, for future reference we shall include the database for users to share feedback about the website.}
 ## Known Bugs
 {For this, the website does not contain download button and so meanwhile the user should resort to youtube downloads. the list of favourite song by sauti sol is just but a few, and to view more of this you should go to a tab at the bottom written "view more" taking you to sauti sol channel in youtube}
 ## Technologies Used
