@@ -1,0 +1,93 @@
+div{
+align-items: left;
+display: block;
+align-items: center;
+text-emphasis-color: rgb(0, 255, 255);
+border-radius: 5px solid;
+
+
+}
+
+h1{
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: rgb(0, 255, 21);
+text-align: center;
+border-style: solid;
+font-weight: bolder;
+display: block;
+border-style: solid;
+border-width: 10px;
+border-radius: 10%;
+padding: 20px;
+padding-top: 10px;
+}
+html,body{
+margin: 0%;
+padding: 0%;
+}
+p{
+    display: block;
+    text-align: left;
+    color: blueviolet;
+    text-align: center;
+}
+h2{ 
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+}
+
+/* div.bien { 
+    align-items: left;
+    text-align: left;
+    color: brown;
+
+} */
+
+#one{
+text-align: center;
+color: red;
+}
+p.red{
+    text-align: left;
+}
+/* 
+div.willis { 
+    align-self: center;
+    align-items: right;
+    text-align: center;
+    color: brown;
+    top:50px;
+} */
+#two{
+    text-align: center;
+    color:red;
+    }
+p.blue{
+        text-align: center;
+    }
+    .bien {
+        float: left;
+        width: 25%;
+      }
+      
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+      .willis{
+        float: right;
+        width: 25%;
+      }
+      .mogondo{
+        float: right;
+        width: 25%;
+      }
+      .bien2{
+        float: left;
+        width: 25%;
+      }
+      .image{
+          align-self: center;
+      }
